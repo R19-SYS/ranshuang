@@ -1,10 +1,10 @@
 {
-  "code": 222,
-  "name": "2.6.3",
-  "apk": "https://cdn.jsdelivr.net/gh/R19-SYS/ranshuang@c165821c7a7003ba93a6447e0999cbb9d0733a67/ranshuang-console.apk",
-  "md5": "6cea3746e3b1a04b21df0124ddff0ed7",
+  "code": 224,
+  "name": "2.6.5",
+  "apk": "https://cdn.jsdelivr.net/gh/R19-SYS/ranshuang@5adf85425c92b7a49940870ece4651f0f3c3f4f9/ranshuang-console.apk",
+  "md5": "2b2013cac1c82e37d1da283ea81f93ce",
   "size": 3170498,
-  "notes": "v2.6.3：更新源改为 raw 为主（jsDelivr @main 缓存锁死会一直吐旧清单）；安装包走 jsDelivr 固定提交地址，4 线程实测 6 秒下完 3 MB",
+  "notes": "v2.6.5：清单三源（GitHub API 最新 → raw → 代理），取 code 最大那份，彻底避免 CDN 缓存把「有新版本」盖成「已是最新」；安装包走固定提交地址，4 线程 6 秒下完 3 MB",
   "force": false,
-  "at": "2026-11-24T17:49:24"
+  "at": "2026-11-24T17:52:17"
 }
