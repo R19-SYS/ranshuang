@@ -1,10 +1,10 @@
 {
-  "code": 219,
-  "name": "2.6.0",
+  "code": 220,
+  "name": "2.6.1",
   "apk": "https://cdn.jsdelivr.net/gh/R19-SYS/ranshuang@main/ranshuang-console.apk",
-  "md5": "a9497592ef46f836df29220ea20936d7",
+  "md5": "d7125ca94b3e363483ec82aa9c32c673",
   "size": 3170498,
-  "notes": "v2.6.0：修复更新通道——清单改用 jsDelivr（实测 0.6 秒，raw 要 8~11 秒还会超时），安装包同样走 jsDelivr",
+  "notes": "v2.6.1：下载改成 4 线程并行，3 MB 安装包从 33 秒降到 7 秒（实测），失败自动回退单线程",
   "force": false,
-  "at": "2026-11-24T16:58:26"
+  "at": "2026-11-24T17:10:00"
 }
