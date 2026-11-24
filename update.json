@@ -1,10 +1,10 @@
 {
-  "code": 220,
-  "name": "2.6.1",
-  "apk": "https://cdn.jsdelivr.net/gh/R19-SYS/ranshuang@da3764ba6d78adb7760c9126ed02721b0e4f83bb/ranshuang-console.apk",
-  "md5": "d7125ca94b3e363483ec82aa9c32c673",
+  "code": 222,
+  "name": "2.6.3",
+  "apk": "https://cdn.jsdelivr.net/gh/R19-SYS/ranshuang@c165821c7a7003ba93a6447e0999cbb9d0733a67/ranshuang-console.apk",
+  "md5": "6cea3746e3b1a04b21df0124ddff0ed7",
   "size": 3170498,
-  "notes": "v2.6.1：下载改成 4 线程并行（3 MB 从 33 秒降到 6 秒），安装包走 jsDelivr 固定提交地址，避免 CDN 缓存旧包",
+  "notes": "v2.6.3：更新源改为 raw 为主（jsDelivr @main 缓存锁死会一直吐旧清单）；安装包走 jsDelivr 固定提交地址，4 线程实测 6 秒下完 3 MB",
   "force": false,
-  "at": "2026-11-24T17:47:20"
+  "at": "2026-11-24T17:49:24"
 }
