@@ -1,10 +1,10 @@
 {
-  "code": 217,
-  "name": "2.5.8",
-  "apk": "ranshuang-console.apk",
-  "md5": "d48525335807ee1c5e2ef21b2460f31f",
+  "code": 218,
+  "name": "2.5.9",
+  "apk": "https://cdn.jsdelivr.net/gh/R19-SYS/ranshuang@main/ranshuang-console.apk",
+  "md5": "535b559c2ceb2c39444af8359e383aa6",
   "size": 3170498,
-  "notes": "v2.5.8：任务卡开关与展开箭头同排、除雪/钓鱼图鉴改版、117 个脚本清理死代码（净减 4.7 KB）",
-  "force": true,
-  "at": "2026-11-24T16:33:49"
+  "notes": "v2.5.9：更新源改到国内可直连的通道（GitHub 主站在国内被阻断，releases 下载 20 秒超时），今后检查更新不再需要代理",
+  "force": false,
+  "at": "2026-11-24T16:53:52"
 }
