@@ -1,10 +1,10 @@
 {
-  "code": 218,
-  "name": "2.5.9",
+  "code": 219,
+  "name": "2.6.0",
   "apk": "https://cdn.jsdelivr.net/gh/R19-SYS/ranshuang@main/ranshuang-console.apk",
-  "md5": "535b559c2ceb2c39444af8359e383aa6",
+  "md5": "a9497592ef46f836df29220ea20936d7",
   "size": 3170498,
-  "notes": "v2.5.9：更新源改到国内可直连的通道（GitHub 主站在国内被阻断，releases 下载 20 秒超时），今后检查更新不再需要代理",
+  "notes": "v2.6.0：修复更新通道——清单改用 jsDelivr（实测 0.6 秒，raw 要 8~11 秒还会超时），安装包同样走 jsDelivr",
   "force": false,
-  "at": "2026-11-24T16:53:52"
+  "at": "2026-11-24T16:58:26"
 }
